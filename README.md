@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @asinasrl
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on Web Development
 
 <!---
 asinasrl/asinasrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
